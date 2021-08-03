@@ -9,6 +9,7 @@
             <label for="Price">Price</label>
             <input
               type="number"
+              step="0.01"
               id="Price"
               placeholder="Price"
               name="price"
@@ -19,6 +20,7 @@
             <label for="Quantity">Quantity</label>
             <input
               type="number"
+              step="0.01"
               id="Quantity"
               placeholder="Quantity"
               name="quantity"
