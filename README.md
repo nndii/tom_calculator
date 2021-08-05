@@ -44,7 +44,10 @@ By default UI would be accessible at `localhost:8080` and Backend OpenAPI at `lo
 
 ## Tests
 
+
 ```bash
 cd backend
+# install dependencies
+poetry install
 ward
 ```
